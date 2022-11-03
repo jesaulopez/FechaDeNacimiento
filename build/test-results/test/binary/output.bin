@@ -11,27 +11,27 @@
 Multiparts:		<none>
 Body:
 {
-    "name": "Marlon",
-    "job": "zion resident"
+    "name": "Dani",
+    "job": "student"
 }
 HTTP/1.1 200 OK
-%Date: Thu, 03 Nov 2022 04:51:23 GMT
+%Date: Thu, 03 Nov 2022 13:25:06 GMT
 /Content-Type: application/json; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
 X-Powered-By: Express
  Access-Control-Allow-Origin: *
-*Etag: W/"4e-K566q6cqiQ9l/2yQJV5O35uj4SA"
+*Etag: W/"46-LP2PA7P/ucta1lQmIB2SseLSSqc"
 Via: 1.1 vegur
 CF-Cache-Status: DYNAMIC
-üReport-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=9mgC2dBjHaLmSb2fMLVlxGQoinhJeQueU6qx9ancG5utjPSNtG0a7dcnfH7sjZpY%2BlTvIvqnoAP1ChOaQdBuY9Q5dazjhIXIY6oV%2Baar1q%2BUboX9vIvnJryi7A%3D%3D"}],"group":"cf-nel","max_age":604800}
+þReport-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=nRj1Z8Wwk4fhHXoJMsjzWS1gTo%2BnVGnCamDa9qKeDsSZMXvf%2FO5UFisRnFK7z6SM2d7hg%2FYXymPseP2okg1hE5mJMPuEzZL22unxK2CequHNZ4zJVae%2BxnPK3g%3D%3D"}],"group":"cf-nel","max_age":604800}
 CNEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
 Server: cloudflare
-CF-RAY: 76427e968fd0db19-MIA
+CF-RAY: 76456f1d2ed702c2-MIA
 Content-Encoding: gzip
 
 {
-    "name": "Marlon",
-    "job": "zion resident",
-,    "updatedAt": "2022-11-03T04:51:23.469Z"
+    "name": "Dani",
+    "job": "student",
+,    "updatedAt": "2022-11-03T13:25:06.940Z"
 }
